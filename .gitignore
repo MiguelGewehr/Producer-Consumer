@@ -1,0 +1,15 @@
+# Arquivos compilados
+build/
+*.o
+*.out
+main
+
+# IDEs e editores
+.vscode/
+.DS_Store
+*.swp
+*.swo
+*~
+
+# Debug
+*.dSYM/
